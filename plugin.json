@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "dragon egg 1",
+    "author": "llllllll",
+    "version": 1,
+    "source": "https://sites.google.com/view/dragoneggtl",
+    "regexp": "(www.)?sites.google.com/view/dragoneggtl/[^/]+/?$",
+    "description": "egg 1",
+    "local": "vi-VN",
+    "language": "javascript"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "page": "page.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
